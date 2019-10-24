@@ -4,6 +4,10 @@
 
 Source Code shown in the Tech Talk "**Artificial Intelligence &amp; Machine Learning for C++**" on Oct/23/2019 by Miguel Angel Moreno.
 
+The full live presentation can be watched here:
+
+   http://www.xnik.com/HongKongCppGroup/Artificial-Intelligence-and-Machine-Learning-for-Cpp
+
 
 This source code was developed and tested in a Ubuntu workstation.
 
