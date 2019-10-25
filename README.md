@@ -16,7 +16,11 @@ To compile, make sure that the "g++" package is installed in your environment as
     my-station:$ sudo apt update
     my-station:$ sudo apt install g++
 
-Please report an "issue" if you find any problem.
+Then navigate to each one of the project directories and simply type the `make` command to compile:
+
+    my-station:$ make
+
+Please open an issue here if you find any problem.
 
 
 Thank you and have fun !!
