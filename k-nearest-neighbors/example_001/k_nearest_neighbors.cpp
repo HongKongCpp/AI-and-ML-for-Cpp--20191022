@@ -45,13 +45,9 @@ public:
         k = val;
     }
 
-    kNearestNeighbors() {
-    
-    }
+    kNearestNeighbors() {}
 
-    ~kNearestNeighbors() {
-    
-    }
+    ~kNearestNeighbors() {}
 
 
     void find_knearest(data *query_point) {
