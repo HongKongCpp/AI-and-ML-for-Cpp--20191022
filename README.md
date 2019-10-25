@@ -9,7 +9,7 @@ The full live presentation can be watched here:
    http://www.xnik.com/HongKongCppGroup/Artificial-Intelligence-and-Machine-Learning-for-Cpp
 
 
-This source code was developed and tested in a Ubuntu workstation.
+This source code was developed and tested in an Ubuntu workstation.
 
 To compile, make sure that the "g++" package is installed in your environment as follows:
 
